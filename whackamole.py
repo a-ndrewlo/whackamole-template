@@ -1,6 +1,6 @@
 import pygame
 
-
+#trying git add
 def main():
     try:
         pygame.init()
